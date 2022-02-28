@@ -126,7 +126,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     },
                     minWidth: 200,
                     height: 42,
-                    child: Text('Register'),
+                    child: Text('Login'),
                   ),
                 ),
               )
